@@ -1,0 +1,11 @@
+public class syedmdali001{
+  public static void main(String[] args){
+    System.out.println("Hello World!")
+    System.out.println("Myself syedmdali001")
+    System.out.println("learning Java")
+    System.out.println("interested in Web Development & App Development")
+    System.out.println("You can reach me via Email: syedmdali001@gmail.com"
+                                             & Facebook: https://www.facebook.com/syedmdali001)
+    System.out.println("Have a nice day!")
+  }
+}
